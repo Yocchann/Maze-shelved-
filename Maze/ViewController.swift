@@ -160,3 +160,4 @@ class ViewController: UIViewController {
         self.present(gameCheckAlert, animated: true, completion: nil)
     }
 }
+//動いてまぁす！！4/3
